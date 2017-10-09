@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#with vglrun
 
 import vtk
 
